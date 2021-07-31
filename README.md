@@ -7,7 +7,7 @@ A challenge was giving to create a script used to get a normalized CSV data file
 
 ## Libraries and Packages Used
 
-- [Beautiful-soups](https://beautiful-soup-4.readthedocs.io/en/latest/) 
+- [Beautiful-soup](https://beautiful-soup-4.readthedocs.io/en/latest/) 
 Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 - [Pandas](https://pandas.pydata.org/)
 Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
