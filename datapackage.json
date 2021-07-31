@@ -1,0 +1,79 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "output-data",
+      "path": "europe-rdsafety.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Area",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Population",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "GDP per capita",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Population density",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Vehicle ownership",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Total road deaths",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Road deaths per Million Inhabitants",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "European Union Road Safety Facts and Figures,  Data Wrangling Challenge"
+  ],
+  "name": "tahaabdul-data-package",
+  "homepage": "github.com/Tahaabdul",
+  "description": "a dataset on European Union Road Safety Facts and Figures from \"https://en.wikipedia.org/wiki/Road_safety_in_Europe\"",
+  "contributors": [
+    {
+      "title": "Taha Abdul Razak",
+      "role": "author"
+    }
+  ],
+  "title": "European Union Road Safety Facts and Figures - 2018",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

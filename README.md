@@ -7,12 +7,12 @@ A challenge was giving to create a script used to get a normalized CSV data file
 
 ## Libraries and Packages Used
 
-- [Beautiful Soup](#https://beautiful-soup-4.readthedocs.io/en/latest/) 
+- [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) 
 Beautiful Soup is a Python library for pulling data out of HTML and XML files.
-- [Pandas](#https://pandas.pydata.org/)
+- [Pandas](https://pandas.pydata.org/)
 Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
-- [Requests](#https://pypi.org/project/requests/)
+- [Requests](https://pypi.org/project/requests/)
 Requests is a simple, yet elegant, HTTP library to send HTTP/1.1 requests extremely easily in python.
 
 
@@ -36,7 +36,7 @@ Requests is a simple, yet elegant, HTTP library to send HTTP/1.1 requests extrem
     python eu-road-safety\scripts\eu_road_safety.py
     ```
 
-## Seen an Improvement?:
+## Seen an Improvement?😊😊:
 
 **Reach out through Email** rhaxaqi@gmail.com
 **Linkedin**
