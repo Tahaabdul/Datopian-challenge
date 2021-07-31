@@ -3,7 +3,7 @@ import requests # library to handle requests
 from bs4 import BeautifulSoup # library to parse HTML documents
 
 
-def get_data():
+def get_table():
 
     # get the response in the form of html
     wikiurl="https://en.wikipedia.org/wiki/Road_safety_in_Europe"
@@ -47,7 +47,7 @@ def get_data():
     df.to_csv("datopian-challenge/output-data/europe-rdsafety.csv", sep=',')
     return df
 
-get_data()
+get_table()
 
 
 
