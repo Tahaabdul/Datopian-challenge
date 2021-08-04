@@ -52,6 +52,8 @@ def get_table():
     df.plot( y="Road deaths per Million Inhabitants", kind="bar")
     df.plot( y="Vehicle ownership", kind="bar")
     df.plot( y="Total road deaths", kind="bar")
+    sel = df[['Vehicle ownership', 'Total road deaths']]
+    sel.plot(kind="bar" )
     
     return df
 

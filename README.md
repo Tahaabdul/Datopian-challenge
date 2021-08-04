@@ -37,14 +37,17 @@ Requests is a simple, yet elegant, HTTP library to send HTTP/1.1 requests extrem
     ```
 ## Some Graphs on Distribution from the Data collected:
 
-1. Road Deaths per Million Inhabitants: 
+1. **Road Deaths per Million Inhabitants:** 
 ![death_per_million](https://user-images.githubusercontent.com/22025813/128262428-165f441b-5ce3-4a5e-a47e-38ce2af92853.png)
 
-2. Vehicle Ownership:
+2. **Vehicle Ownership:**
 ![Vehicle_ownership](https://user-images.githubusercontent.com/22025813/128262426-a82f1fd0-f0b8-4b07-b16b-b3c72bad628a.png)
 
-3.Total Road Deaths: 
+3. **Total Road Deaths:** 
 ![Total_road_deaths](https://user-images.githubusercontent.com/22025813/128262421-96b6a3a2-9048-409a-838c-dfd2c4c5346f.png)
+
+4. **Vehicle Ownership vs Total Road Deaths:** 
+![Vehicle_ownership_v_tr_deaths](https://user-images.githubusercontent.com/22025813/128265686-618ada66-6d13-4d9f-baf5-b4bff7d281a3.png)
 
 ## Seen an Improvement?😊😊:
 
