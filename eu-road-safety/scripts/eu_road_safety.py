@@ -45,6 +45,14 @@ def get_table():
 
     #exporting data as csv into an existing path "datopian-challenge/output-data/"
     df.to_csv("datopian-challenge/output-data/europe-rdsafety.csv", sep=',')
+    
+    df = df.iloc[0:27]
+
+     #plotting graphs of Road deaths per Million Inhabitants",Vehicle ownership" and Total road deaths for all countries )
+    df.plot( y="Road deaths per Million Inhabitants", kind="bar")
+    df.plot( y="Vehicle ownership", kind="bar")
+    df.plot( y="Total road deaths", kind="bar")
+    
     return df
 
 get_table()
